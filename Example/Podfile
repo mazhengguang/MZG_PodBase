@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZG_PodBase_Example' do
+  pod 'MZG_PodBase', :path => '../'
+
+  target 'MZG_PodBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
