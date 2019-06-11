@@ -1,0 +1,6 @@
+framework module Pods_MZG_PodBase_Example {
+  umbrella header "Pods-MZG_PodBase_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

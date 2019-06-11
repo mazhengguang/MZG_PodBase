@@ -1,0 +1,16 @@
+PODS:
+  - MZG_PodBase (0.1.0)
+
+DEPENDENCIES:
+  - MZG_PodBase (from `../`)
+
+EXTERNAL SOURCES:
+  MZG_PodBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MZG_PodBase: b32b8addea39c980b957ad12781b4c7f245f3fbc
+
+PODFILE CHECKSUM: 092cd440f91c8c3e02f02d733c64ebed76502d97
+
+COCOAPODS: 1.7.1

@@ -1,0 +1,6 @@
+framework module MZG_PodBase {
+  umbrella header "MZG_PodBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

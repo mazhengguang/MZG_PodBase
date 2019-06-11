@@ -1,0 +1,6 @@
+framework module Pods_MZG_PodBase_Tests {
+  umbrella header "Pods-MZG_PodBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
